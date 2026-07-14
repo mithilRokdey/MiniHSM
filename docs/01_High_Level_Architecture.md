@@ -35,7 +35,7 @@ I[Workflow Manager]
 
 J[Execution Manager]
 
-K[Crypto Provider]
+K[Crypto Service Provider]
 
 L[Key Manager]
 
